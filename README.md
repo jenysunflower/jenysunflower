@@ -1,8 +1,10 @@
-<div align="center">
-  <img src="https://www.dongee.com/tutoriales/content/images/2023/01/image-70.png" alt="Jeny's GitHub Banner" height="300">
-  <br>
-  <h1>¡Hola! Soy Jenifer F. 👋</h1>
+<div style="text-align: center;">
+  <h1>¡Hola! 👋, soy Jenifer F.</h1>
+  <p style="font-size: 18px; line-height: 1.5;">
+    Apasionada desarrolladora de tecnología para extracción de datos con experiencia en diseño web y ciberseguridad. Siempre dispuesta a aprender y enfrentar nuevos desafíos en el mundo tecnológico.
+  </p>
 </div>
+
 
 **Sobre mí 👩‍💻**
 
