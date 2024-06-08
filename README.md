@@ -30,7 +30,7 @@ Soy de Santiago de Chile  y me dedico al desarrollo de tecnología para extracci
 <br>
 <br>
 
-* **Experiencia 💼**
+**Experiencia 💼**
 
 He trabajado en proyectos de diseño web y he colaborado en iniciativas de ciberseguridad en importantes empresas e instituciones del país privadas y públcias . Actualmente, estoy explorando el mundo del análisis de datos.
 
