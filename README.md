@@ -15,15 +15,18 @@ Soy de Santiago de Chile  y me dedico al desarrollo de tecnología para extracci
 * **Análisis de datos:** JavaScript, Python (en aprendizaje)
 * ## Lenguajes y Herramientas 🛠️
 
-<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="32" height="32">
-<img src="https://simpleicons.org/icons/html5.svg" alt="HTML5" width="32" height="32">
-<img src="https://simpleicons.org/icons/css3.svg" alt="CSS3" width="32" height="32">
-<img src="https://simpleicons.org/icons/php.svg" alt="PHP" width="32" height="32">
-<img src="https://simpleicons.org/icons/selenium.svg" alt="Selenium" width="32" height="32">
-<img src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" width="32" height="32">
-<img src="https://simpleicons.org/icons/oracle.svg" alt="SQL Developer" width="32" height="32">  
-<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="32" height="32">
-<img src="https://simpleicons.org/icons/beautifulsoup.svg" alt="BeautifulSoup4" width="32" height="32">
+<div style="display: flex; align-items: center;">
+  <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="32" height="32">
+  <img src="https://simpleicons.org/icons/html5.svg" alt="HTML5" width="32" height="32">
+  <img src="https://simpleicons.org/icons/css3.svg" alt="CSS3" width="32" height="32">
+  <img src="https://simpleicons.org/icons/php.svg" alt="PHP" width="32" height="32">
+  <img src="https://simpleicons.org/icons/selenium.svg" alt="Selenium" width="32" height="32">
+  <img src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" width="32" height="32">
+  <img src="https://simpleicons.org/icons/oracle.svg" alt="SQL Developer" width="32" height="32">  
+  <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="32" height="32">
+  <img src="https://simpleicons.org/icons/beautifulsoup.svg" alt="BeautifulSoup4" width="32" height="32">
+</div>
+
 
 
 **Experiencia 💼**
