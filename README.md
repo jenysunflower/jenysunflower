@@ -1,15 +1,12 @@
-<div style="width: 100%; max-height: 200px;"> 
+<div align="center">
   <img src="https://img.freepik.com/vector-premium/tecnologia-diseno-arte-moderno-cabeza-humana-gafas-vr-innovaciones-herramientas-creativas_88272-4939.jpg?w=2000" alt="banner" style="max-width: 100%; height: auto; object-fit: cover;">
 </div>
 
+<h1 align="center">¡Hola! 👋, soy Jenifer F.</h1>
 
-<div style="text-align: center;">
-  <h1>¡Hola! 👋, soy Jenifer F.</h1>
-  <p style="font-size: 18px; line-height: 1.5;">
-    Apasionada desarrolladora de tecnología para extracción de datos con experiencia en diseño web y ciberseguridad. Siempre dispuesta a aprender y enfrentar nuevos desafíos en el mundo tecnológico.
-  </p>
-</div>
-
+<p align="center" style="font-size: 18px; line-height: 1.5;">
+  Apasionada desarrolladora de tecnología para extracción de datos con experiencia en diseño web y ciberseguridad. Siempre dispuesta a aprender y enfrentar nuevos desafíos en el mundo tecnológico.
+</p>
 
 **Sobre mí 👩‍💻**
 
