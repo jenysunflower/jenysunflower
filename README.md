@@ -7,7 +7,7 @@
 <h3 align="center" style="color: black; font-size: 24px; line-height: 1.5;">Apasionada desarrolladora de tecnología para extracción de datos con experiencia en diseño web y ciberseguridad. Siempre dispuesta a aprender y enfrentar nuevos desafíos en el mundo tecnológico.</h3>
 <br>
 <br>
-
+<hr>
 **Sobre mí 👩‍💻**
 
 Soy de Santiago de Chile  y me dedico al desarrollo de tecnología para extracción de datos. Me encanta resolver problemas y encontrar patrones en la información.
@@ -18,6 +18,7 @@ Soy de Santiago de Chile  y me dedico al desarrollo de tecnología para extracci
 * **Ciberseguridad:** ISOs, normas de protección de datos, gobierno de datos
 * **Análisis de datos:** JavaScript, Python (en aprendizaje)
 * **Lneguajes y Heramientas 👩‍💻** 🛠️
+<br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <div style="display: flex; align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/320px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40">
