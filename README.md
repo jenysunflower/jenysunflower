@@ -1,4 +1,4 @@
-<div style="width: 100%; max-height: 200px;">
+<div style="width: 100%; max-height: 200px;"> 
   <img src="https://img.freepik.com/vector-premium/tecnologia-diseno-arte-moderno-cabeza-humana-gafas-vr-innovaciones-herramientas-creativas_88272-4939.jpg?w=2000" alt="banner" style="max-width: 100%; height: auto; object-fit: cover;">
 </div>
 
