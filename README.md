@@ -27,7 +27,8 @@ Soy de Santiago de Chile  y me dedico al desarrollo de tecnología para extracci
   <img src="https://miro.medium.com/v2/resize:fit:772/0*oN9jA-Ad3mRlPAYy.png" height="32">
 </div>
 
-
+<br>
+<br>
 
 * **Experiencia 💼**
 
