@@ -5,6 +5,8 @@
 <h1 align="center">¡Hola! 👋, soy Jenifer F.</h1>
 
 <h3 align="center" style="color: black; font-size: 24px; line-height: 1.5;">Apasionada desarrolladora de tecnología para extracción de datos con experiencia en diseño web y ciberseguridad. Siempre dispuesta a aprender y enfrentar nuevos desafíos en el mundo tecnológico.</h3>
+<br>
+<br>
 
 **Sobre mí 👩‍💻**
 
