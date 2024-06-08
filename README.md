@@ -13,9 +13,9 @@ Soy de Santiago de Chile  y me dedico al desarrollo de tecnología para extracci
 * **Desarrollo web:** HTML, CSS, PHP, WordPress
 * **Ciberseguridad:** ISOs, normas de protección de datos, gobierno de datos
 * **Análisis de datos:** JavaScript, Python (en aprendizaje)
-**Lneguajes y Heramientas 👩‍💻** 🛠️
+* **Lneguajes y Heramientas 👩‍💻** 🛠️
 
-<div style="display: flex; align-items: center;">
+* <div style="display: flex; align-items: center;">
   <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="32" height="32">
   <img src="https://simpleicons.org/icons/html5.svg" alt="HTML5" width="32" height="32">
   <img src="https://simpleicons.org/icons/css3.svg" alt="CSS3" width="32" height="32">
@@ -29,7 +29,7 @@ Soy de Santiago de Chile  y me dedico al desarrollo de tecnología para extracci
 
 
 
-**Experiencia 💼**
+* **Experiencia 💼**
 
 He trabajado en proyectos de diseño web y he colaborado en iniciativas de ciberseguridad en importantes empresas e instituciones del país privadas y públcias . Actualmente, estoy explorando el mundo del análisis de datos.
 
