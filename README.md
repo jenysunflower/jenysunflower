@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://img.freepik.com/vector-premium/tecnologia-diseno-arte-moderno-cabeza-humana-gafas-vr-innovaciones-herramientas-creativas_88272-4939.jpg?w=2000" alt="banner" style="height: 300px; width: auto;">
+<div style="width: 100%;">
+  <img src="https://img.freepik.com/vector-premium/tecnologia-diseno-arte-moderno-cabeza-humana-gafas-vr-innovaciones-herramientas-creativas_88272-4939.jpg?w=2000" alt="banner" style="width: 100%; height: 300px; object-fit: cover;">
 </div>
 
 
