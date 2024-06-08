@@ -43,5 +43,5 @@ He trabajado en proyectos de diseño web y he colaborado en iniciativas de ciber
 Si quieres saber más sobre mi trabajo o colaborar en algún proyecto, no dudes en contactarme.
 
 ```python
-print('Mantengámonos en contacto')
+print('Gracias por visitarme!')
 ```
