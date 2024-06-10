@@ -36,7 +36,7 @@ Soy de Santiago de Chile  y me dedico al desarrollo de tecnología para extracci
 
 **Experiencia 💼**
 
-He trabajado en proyectos de diseño web y he colaborado en iniciativas de ciberseguridad en importantes empresas e instituciones del país privadas y públcias . Actualmente, estoy explorando el mundo del análisis de datos.
+He trabajado en proyectos de diseño web y he colaborado en iniciativas de ciberseguridad en importantes empresas e instituciones del país privadas y públicas del ámbito alimenticio, infraestructura crítica, electricidad, retail, también en alianzas con Brasil; respondiendo a necesidasdes de diferentes normas de ciberseguridad y protección de datos como la ley 19628, RGPD, LGPD, ISO 27001/02, NERC, iso 27701, ISO 39001, entre otras . Actualmente, estoy explorando el mundo del análisis de datos del mundo del retail.
 
 **¡Estemos en contacto! 🤝**
 
