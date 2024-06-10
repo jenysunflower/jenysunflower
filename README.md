@@ -4,12 +4,12 @@
 
 <h1 align="center">¡Hola! 👋, soy Jenifer F.</h1>
 
-<h3 align="center" style="color: black; font-size: 24px; line-height: 1.5;">Apasionada desarrolladora de tecnología para extracción de datos con experiencia en diseño web y ciberseguridad. Siempre dispuesta a aprender y enfrentar nuevos desafíos en el mundo tecnológico.</h3>
+<h3 align="center" style="color: black; font-size: 24px; line-height: 1.5;">Apasionada de la tecnología para extracción de datos con experiencia en diseño web y ciberseguridad. Siempre dispuesta a aprender y enfrentar nuevos desafíos en el mundo tecnológico con enfoque social.</h3>
 
 
 **Sobre mí 👩‍💻**
 
-Soy de Santiago de Chile  y me dedico al desarrollo de tecnología para extracción de datos. Me encanta resolver problemas y encontrar patrones en la información.
+Soy de Santiago de Chile y actualmente me dedico al desarrollo de tecnología para extracción de datos. Me encanta resolver problemas y encontrar patrones en la información.
 
 **Habilidades 🚀**
 
@@ -43,7 +43,7 @@ He trabajado en proyectos de diseño web y he colaborado en iniciativas de ciber
 
 **¡Estemos en contacto! 🤝**
 
-Si quieres saber más sobre mi trabajo o colaborar en algún proyecto, no dudes en contactarme.
+Si quieres saber más sobre mi trabajo o colaborar en algún proyecto, no dudes en contactarme a través del Linkedin en mi bio.
 
 ```python
 print('Gracias por visitarme!')
