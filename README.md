@@ -20,7 +20,8 @@ Soy de Santiago de Chile  y me dedico al desarrollo de tecnología para extracci
 <br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <div style="display: flex; align-items: center;">
-  <img src="https://yt3.googleusercontent.com/vv6Vs5MTxjGZWT_bmGKyD1iXgsDJgxPP3J7kz_wK_1GxnN8T5E97YzaqhubXj1lPLZmE03olIQ=s900-c-k-c0x00ffffff-no-rj" height="40">
+  <img src="https://verveindustrial.com/wp-content/uploads/2020/10/d3df7c_fc4a56f18b2547c683770474e37f56b8_mv2.jpg" height="40">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ9R2V_D4JEw-jjmgDkka2hTjukU_VXA1qjb7wN_AXw8Ri5IobGA7XrR1Yx6ElTJec9So" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/320px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" height="40">
   <img src="https://simpleicons.org/icons/css3.svg" alt="CSS3" width="40" height="40">
